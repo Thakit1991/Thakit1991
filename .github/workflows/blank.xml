@@ -1,0 +1,3 @@
+ST1 = random(0,9);
+sendtext(ST1);
+setSelection(1,2);sleep(1);
